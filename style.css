@@ -1,0 +1,68 @@
+footer {
+  margin: 0px;
+  padding: 0px;
+  background-color: #dddddd;
+  display: flex;
+  max-height: fit-content;
+  font-family: "Comic Sans MS";
+}
+
+.kidera-section {
+  margin: 20px;
+  padding: 25px;
+}
+.appstore {
+  margin: 20px;
+  padding: 20px;
+  padding-top: 160px;
+}
+.link {
+  display: flex;
+  margin: 20px;
+  padding: 20px;
+  max-width: 1000px;
+  text-align: justify;
+}
+
+.useful-links {
+  margin: 10px;
+  text-align: justify;
+  padding-right: 10px;
+}
+
+.company {
+  margin: 10px;
+  text-align: justify;
+  padding-left: 10px;
+}
+
+.contact {
+  margin: 10px;
+  text-align: justify;
+  padding-left: 50px;
+  margin-left: 20px;
+}
+
+.icons {
+  padding-top: 120px;
+}
+
+.termsofservice {
+  padding-top: 80px;
+  padding-left: 20px;
+  color: #191919;
+}
+
+.privacypolicy {
+  padding-top: 100px;
+  color: #191919;
+}
+
+.app {
+  margin-right: 10px;
+}
+
+h5 {
+  color: #7939cc;
+  padding-left: 20px;
+}
